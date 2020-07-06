@@ -36,7 +36,6 @@ print('=' * 100)
 # The file parameter allows you to save it to a file rather than output it to the console. 
 # This is useful when you log.
 # There is something beyond the level of this document, and you can just refer to it.
-
 with open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'result_files', '001_result.txt'), 'w') as f:
     print("It's written to the file.", file=f)
 
