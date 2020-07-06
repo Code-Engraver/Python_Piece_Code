@@ -2,7 +2,7 @@
 # https://www.python-course.eu/python3_formatted_output.php
 # I will do various practical exercises using the contents of Python Course site.
 
-# From now on, we are going to introduce various string formatting methods. 
+# From now on, I are going to introduce various string formatting methods. 
 # Personally, I recommend the last method. 
 # That's what Python Course site introduces.
 
@@ -87,7 +87,7 @@ print("name1={name1}, name2={name2}".format(**locals()))
 # It can also be implemented in flag, such as central alignment, text placement on left and right sides, 
 # or a function that is implemented separately can also be used. 
 # Since I can't find good examples that are diverse and suitable, you'd better use the link below if necessary,
-# so we'll move on without introducing it.
+# so I'll move on without introducing it.
 # https://pyformat.info/
 
 # From now on, I highly recommend the method to introduce. 
