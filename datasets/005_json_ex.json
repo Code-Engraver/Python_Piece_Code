@@ -1,0 +1,20 @@
+{
+    "students": [
+        {
+            "name": "Dave",
+            "age": 24,
+            "car": {
+                "brend": "Audi",
+                "type": "SUV"
+            }
+        },
+        {
+            "name": "Lee",
+            "age": 22,
+            "car": {
+                "brend": "BMW",
+                "type": "SUV"
+            }
+        }
+    ]
+}
