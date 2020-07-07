@@ -1,0 +1,2 @@
+Using pandas, we proceed with a project that only deals with various files such as csv, json, Excel, etc. 
+Deletes the file at the start of the project.
