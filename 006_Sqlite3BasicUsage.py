@@ -42,6 +42,11 @@ print('sqlite3.sqlite_version :', sqlite3.sqlite_version)
 # AUTO_COMMIT is not recommended.
 conn = sqlite3.connect(get_path('datasets', '006_database.db'))
 
+# You can also use the file for a while by assigning it to memory only without creating it. 
+# In this case, it flies when the program ends.
+
+# conn = sqlite3.connect(":memory:")
+
 # You can execute sql statement using cursor object.
 cur = conn.cursor()
 
